@@ -234,7 +234,7 @@ const data = [
         id: 28,
         name: "TechDeal",
         photo: "./images/techdeal.png",
-        link: "#",
+        link: "https://techdeal-dj-react.herokuapp.com/",
         description: "",
         category: "large-scale",
       },
