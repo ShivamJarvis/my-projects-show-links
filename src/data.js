@@ -123,14 +123,14 @@ const data = [
           description:"",
           category:"advanced"
       },
-      // {
-      //   id: 17,
-      //   name: "Markdown Preview",
-      //   photo: "./images/markdown.png",
-      //   link: "#",
-      //   description: "",
-      //   category: "advanced",
-      // },
+      {
+        id: 17,
+        name: "Markdown Preview",
+        photo: "./images/markdown.png",
+        link: "https://markdown-react-project.netlify.app/",
+        description: "",
+        category: "advanced",
+      },
       // {
       //   id: 18,
       //   name: "Random Person",
@@ -139,14 +139,14 @@ const data = [
       //   description: "",
       //   category: "advanced",
       // },
-      // {
-      //   id: 19,
-      //   name: "Pagination",
-      //   photo: "./images/pagination.png",
-      //   link: "#",
-      //   description: "",
-      //   category: "advanced",
-      // },
+      {
+        id: 19,
+        name: "Disney Home Clone",
+        photo: "./images/disney.png",
+        link: "https://disney-home-clone.netlify.app/",
+        description: "",
+        category: "advanced",
+      },
       // {
       //   id: 20,
       //   name: "Stock Photos",
