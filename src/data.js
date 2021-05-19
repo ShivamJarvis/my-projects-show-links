@@ -147,6 +147,14 @@ const data = [
         description: "",
         category: "advanced",
       },
+        {
+        id: 20,
+        name: "Netflix Clone",
+        photo: "./images/netflix.png",
+        link: "https://netflix-sg.netlify.app/",
+        description: "",
+        category: "advanced",
+      },
       // {
       //   id: 20,
       //   name: "Stock Photos",
